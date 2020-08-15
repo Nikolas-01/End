@@ -125,7 +125,7 @@ class BotHandler:
 
 
 # создание бота
-token = 'http://t.me/Nikolas_01bot)'
+token = 'http://t.me/Nikolas_01bot'
 greet_bot = BotHandler(token)
 
 
